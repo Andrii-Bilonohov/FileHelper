@@ -1,0 +1,6 @@
+File: C:\Test\New Text Document.txt
+🔄 Replacements: 2
+--------------------------------------------------
+File: C:\Test\text.txt
+🔄 Replacements: 1
+--------------------------------------------------
